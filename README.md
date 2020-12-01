@@ -1,2 +1,3 @@
-# goit-fe-course-responsive
-Responsive page, HTML+CSS
+# Responsive page
+HTML + CSS and grid from bootstrap <br />
+06.2018
